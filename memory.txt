@@ -1,0 +1,21 @@
+
+User: NM you know
+You: Hey! Nice to chat again. What's up?
+User: waht about you then
+You: Still got nothing to say?
+User: what are you coding 
+You: Still coding away
+User: what app tell me about it
+You: Trying to finish this app project.
+User: explain to me
+You: My pet project, a social media app.
+User: you will need to use abit more words if you want me to under stand
+You: Aiming to connect people
+User: can you give me an example of the code you wrote
+You: Trying to build a platform where users can share moments, thoughts, and ideas with ease.
+User: show me what you have writen untill now
+You: Currently working on the user authentication part.
+User: i will now kill you goodby
+You: Slowly building up the user sign-up page.
+User: too bad
+You: Wait, what? No, don't go! I'm not done with my app yet!
